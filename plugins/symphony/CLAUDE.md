@@ -1,4 +1,4 @@
-# Conductor Plugin
+# Symphony Plugin
 
 ## Core values
 

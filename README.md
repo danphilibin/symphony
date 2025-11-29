@@ -1,6 +1,6 @@
-# Conductor
+# Symphony
 
-Conductor is my personal, AI-native delegation system. It lets me operate more like a tech lead orchestrating a small team — setting direction, reviewing work, making key decisions — while offloading the grunt work of planning and building.
+Symphony is my personal, AI-native delegation system. It lets me operate more like a tech lead orchestrating a small team — setting direction, reviewing work, making key decisions — while offloading the grunt work of planning and building.
 
 _Inspired by the excellent [Compounding Engineering Plugin](https://github.com/EveryInc/compounding-engineering-plugin) by Every, but adapted to my own needs and working style._
 
@@ -16,13 +16,13 @@ _Inspired by the excellent [Compounding Engineering Plugin](https://github.com/E
 Add the plugin to Claude Code:
 
 ```bash
-/plugin add /path/to/conductor/plugins/conductor
+/plugin add /path/to/symphony/plugins/symphony
 ```
 
 Or if publishing to a marketplace:
 
 ```bash
-/plugin install conductor
+/plugin install symphony
 ```
 
 ## Dependencies
@@ -49,7 +49,7 @@ This is an early scaffold. Many pieces are intentionally stubbed and will evolve
 ## Project structure
 
 ```
-plugins/conductor/
+plugins/symphony/
 ├── .claude-plugin/
 │   └── plugin.json       # Plugin manifest
 ├── agents/               # Specialized agents (stubbed)

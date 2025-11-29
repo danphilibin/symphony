@@ -1,4 +1,4 @@
-# Conductor
+# Symphony
 
 _Personal delegation system for orchestrating AI agents_
 

@@ -9,14 +9,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Initial scaffolding for Conductor plugin
+- Initial scaffolding for Symphony plugin
 - Plugin manifest (`.claude-plugin/plugin.json`)
 - Directory structure for agents, commands, and skills
 - Four core workflow commands (stubbed):
-  - `/conductor:plan` - Turn ideas into PRDs
-  - `/conductor:work` - Execute plans systematically
-  - `/conductor:review` - Surface high-signal review questions
-  - `/conductor:compound` - Self-improvement proposals
+  - `/symphony:plan` - Turn ideas into PRDs
+  - `/symphony:work` - Execute plans systematically
+  - `/symphony:review` - Surface high-signal review questions
+  - `/symphony:compound` - Self-improvement proposals
 - Placeholder READMEs in agent and skill directories
 - Root README with installation and usage overview
 - Plugin CLAUDE.md with core values and structure guidance

@@ -1,14 +1,13 @@
 {
-  "name": "conductor-marketplace",
-  "owner": {
-    "name": "Dan"
-  },
-  "plugins": [
-    {
-      "name": "conductor",
-      "source": "./plugins/conductor",
-      "description": "Personal delegation system: plan, work, review, and compound with high-taste guardrails."
-    }
-  ]
+	"name": "dp-marketplace",
+	"owner": {
+		"name": "Dan Philibin"
+	},
+	"plugins": [
+		{
+			"name": "symphony",
+			"source": "./plugins/symphony",
+			"description": "Personal delegation system: plan, work, review, and compound with high-taste guardrails."
+		}
+	]
 }
-
